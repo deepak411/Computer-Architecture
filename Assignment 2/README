@@ -1,0 +1,1 @@
+Replace the cache.c and cache.h in SimpleScalar folder to get implementation of PLRU and 2 bit SRRIP
