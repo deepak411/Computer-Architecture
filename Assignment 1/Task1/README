@@ -1,0 +1,24 @@
+1. There are four files source files included in this folder:
+
+	
+
+	cacheLinearRead.c
+
+	cacheLinearWrite.c
+
+	cacheRandomRead.c
+
+	cacheRandomWrite.c
+
+
+
+2. Do 'make all' in the folder to generate the object files for all of these source files.
+
+
+3. To change the arraysize for the files, edit the arr_size macro in the indiviual files. Comments have been added in the files appropriately.
+
+
+4. On running the object files the access time per reference is printed out in the end.
+
+
+5. Change the array size  and repeat the process to observe the memory mountain plot.
